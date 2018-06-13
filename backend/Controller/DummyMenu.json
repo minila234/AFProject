@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "name": "Sea Food",
+        "price": 400,
+        "loyalPoints":30,
+        "qty":1
+    },
+    {
+        "id":2,
+        "name": "Fried Rice",
+        "price": 250,
+        "loyalPoints":10,
+        "qty":1
+    },
+    {
+        "id":3,
+        "name": "Rice & curry",
+        "price": 150,
+        "loyalPoints":7,
+        "qty":1
+    },
+    {
+        "id":4,
+        "name": "Koththu",
+        "price": 200,
+        "loyalPoints":5,
+        "qty":1
+    }
+
+]
